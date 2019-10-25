@@ -1,0 +1,17 @@
+body {text-align: justify; margin-right: 300px; margin-left: 400px;}
+h1 {color: #6BBBE9;}
+strong.rojo {color: red;}
+span.amarillo {color: yellow;}
+span.rojo {color: red;}
+span.morado {color: purple;}
+span.rosa {color: #FD11A4;}
+a {color: green;}
+div.color {color: #7AAF8E;}
+th.especial {color: orange;}
+th.rojo {color: red;}
+strong.especial {color: orange;}
+td.verde {color: green;}
+caption.blue {color: blue;}
+em.azul {color: blue;}
+h2  {color: blue;}
+table {border-collapse: collapse;}
