@@ -1,0 +1,19 @@
+tr.mensual {background-color: red; text-align: center;}
+td {padding-left: 50px;
+  padding-right: 50px;}
+table { border-spacing: 22px 0px; background-color: lightgrey; margin: 0 auto;}
+td.padding {padding-top: 40px; padding-bottom: 40px;}
+td.bottom {padding-bottom: 40px;}
+span.normal {color: white; font-size: 25px;}
+span.dinero {color: white; font-weight: bold; font-size: 35px;}
+span.mes {color: white; font-size: 25px;}
+tr.color {background-color: white;}
+body {text-align: center; width: 100%;}
+strong {line-height: 52px; }
+button {background-color: red;
+        color: white;
+        padding: 15px 30px;
+        text-align: center;
+        display: inline-block;
+        font-size: 15px;
+        cursor: pointer;}
