@@ -1,0 +1,19 @@
+body {background-color: #21548A;}
+table {width: 100%; height: 100%; background-color: white;  }
+td.imagen { background-repeat: no-repeat; }
+hr.linea {margin-right: 1000px;}
+img {float: top; right;
+  border-color: white;
+  border-style: solid;
+  padding-left:  12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin: 25px 15px 20px 300px;}
+h1 {color: whie;  }
+h3.titulo1 {color: #3A83D3;}
+h3.titulo2 {font-family: sans-serif;}
+p.margen {margin-right: 700px;}
+p.border {border-style: solid; background-color: #0A3361; color: white; margin-right: 1200px; }
+tr {background-image: url("descarga(1).jpg");}
+hr.linea {}
