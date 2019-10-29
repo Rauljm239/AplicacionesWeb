@@ -1,6 +1,7 @@
 body {background-color: #21548A;}
-table {width: 100%; height: 100%; background-color: white;  }
-td.imagen { background-repeat: no-repeat; }
+table {width: 100%; height: 100%; background-color: white;}
+td.imagen { background-repeat: no-repeat; background-size: cover; }
+a {color: white;}
 hr.linea {margin-right: 1000px;}
 img {float: top; right;
   border-color: white;
