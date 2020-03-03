@@ -1,0 +1,10 @@
+body {background-color: #67ABF8;}
+h1.titulo {text-align: center; }
+hr.linea {width: 50%}
+span.enlaces  {
+  text-align: center;
+  font-size: 20px;
+  margin-left: 500px;}
+img.tajo {margin-left: 550px;}
+h2.q {margin-left: 600px; }
+p.introduccion {font-size: 20px; margin-left: 400px; margin-right: 400px}

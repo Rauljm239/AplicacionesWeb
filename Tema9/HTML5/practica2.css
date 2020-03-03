@@ -1,0 +1,10 @@
+h1 {color: white; background-color: #7A7D80; border: 10px solid #7A7D80;
+  margin: 10px;}
+nav {border: 1px solid; margin: 10px; padding-top: 3px;}
+a {margin: 10px;}
+section {margin: 10px; border: 1px solid;}
+article {margin: 10px; border: 1px solid;}
+h2 {padding-left: 10px}
+p {padding-left: 10px}
+p.p {color: white; background-color: #7A7D80; border: 10px solid #7A7D80;
+  margin: 10px; padding-top: 5px; padding-bottom: 5px;}
